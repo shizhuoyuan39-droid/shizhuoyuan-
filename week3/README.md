@@ -1,2 +1,1 @@
-# shizhuoyuan-
-sdfasdfsad![alt text](<屏幕截图 2026-03-19 113517.png>)
+本周在 ROS2 环境下使用 TurtleSim 实现小乌龟画圆功能。通过向 /turtle1/cmd_vel 话题发布速度指令，同时设置线速度与角速度，让小乌龟进行持续圆周运动，直观理解 ROS2 话题通信与运动控制的基本原理。
