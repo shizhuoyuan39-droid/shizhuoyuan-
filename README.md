@@ -24,4 +24,4 @@
 
 本项目使用 GitHub Pages 自动部署。
 
-在线访问：https://github.com/shizhuoyuan39-droid/shizhuoyuan-.git
+在线访问：https://shizhuoyuan39-droid.github.io/shizhuoyuan-
