@@ -11,9 +11,12 @@
 - [Week 6：传感器介绍与 ROS2 KITTI 实验](week6/)
 - [Week 7：Markdown 与 GitHub 作业整理](week7/)
 - [Week 8：Docker 安装与 ROS2 桌面容器](week8/)
+- [Week 9：机器人与机器视觉数学基础](week9/)
 - [Week 10：Docker 概念与 OpenCV 实验](week10/)
-- [Week 11：Docker 镜像实验](week11/)
-
+- [Week 11：Docker 进阶与 GitHub Pages 网页部署](week11/)
+- [Week 12：四足机器人入门 + 期末项目实施](week12/)
+- [Week 13：手机摄像头、ArUco 识别与距离测量](week13/)
+- [Week 14：手机遥控 + 局域网通信 + 仿真机器人迷宫探索](week14/)
 ## 关于我
 
 - 姓名：史卓远
