@@ -1,0 +1,7 @@
+# AddTwoInts.srv
+# 请求：两个整数
+int64 a
+int64 b
+---
+# 响应：求和结果
+int64 sum

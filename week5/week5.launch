@@ -1,0 +1,15 @@
+<!-- week5.launch：同时启动 Service 服务端与客户端 -->
+<launch>
+  <!-- 启动服务端 -->
+  <node name="add_two_ints_server"
+        pkg="week5_pkg"
+        type="server.py"
+        output="screen" />
+
+  <!-- 启动客户端，传入两个参数 a=3, b=5 -->
+  <node name="add_two_ints_client"
+        pkg="week5_pkg"
+        type="client.py"
+        args="3 5"
+        output="screen" />
+</launch>
